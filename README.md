@@ -1,33 +1,33 @@
-# Grok Cannabis Growing Skill
+# 🌱 Grok Cannabis Growing Skill
 
-A comprehensive custom **skill** for Grok (xAI) that turns Grok into an expert cannabis cultivation advisor.
+**A powerful custom skill for Grok (xAI)** that transforms Grok into a knowledgeable cannabis cultivation expert.
 
 ## Features
-- Covers **autoflowers** and **photoperiod** strains in detail
-- Full lifecycle guidance: germination → harvest → curing
-- Diagnostics for common issues (deficiencies, pests, environment)
-- Training techniques, feeding schedules, environment targets (VPD, DLI, etc.)
-- Indoor, outdoor, and greenhouse advice
-- References for deep dives
+- Full support for **autoflowers** and **photoperiod** strains
+- Complete lifecycle guidance (germination → harvest → curing)
+- Advanced diagnostics for deficiencies, pests, and environmental issues
+- Training techniques, feeding schedules, VPD/DLI/PPFD targets
+- Indoor, outdoor, and greenhouse strategies
+- Practical, actionable advice for all experience levels
 
-## How to Install in Grok
-1. Go to Grok settings or Skill Creator.
-2. Upload the `SKILL.md` file or copy its contents.
-3. (Optional) Upload the `references/` folder contents for richer context.
-4. Start asking growing questions — Grok will automatically use the skill when relevant.
+## Installation
+1. Open Grok and go to **Skills** or use the Skill Creator.
+2. Upload `SKILL.md` (main file).
+3. Optionally upload files from the `references/` folder for deeper context.
+4. Start asking questions — the skill activates automatically on relevant topics.
 
-## Usage
-Trigger words include: soil, coco, hydro, nutrients, pH, light cycles, deficiencies, LST, topping, trichomes, etc. (see full list in SKILL.md).
+## Triggers
+The skill activates on keywords like: soil, coco, hydro, nutrients, pH, light cycles, deficiencies, LST, topping, trichomes, harvest, curing, and many more (full list in SKILL.md).
 
-**Always legal note**: Follow your local laws.
+## Repository Contents
+- `SKILL.md` — Core skill definition + comprehensive guide
+- `references/` — Detailed supporting documents
+- `LICENSE` — MIT License
 
-## Files
-- `SKILL.md` — Main skill definition and comprehensive guide
-- `references/` — Supporting detailed markdown documents
-
-## Contributing
-Feel free to fork, improve references, or submit PRs!
+## Legal
+Always comply with your local laws regarding cannabis cultivation.
 
 ---
 
-**Made for the Grok community.** Enjoy growing! 🌱
+Made for the Grok community.  
+Feedback and contributions welcome!
